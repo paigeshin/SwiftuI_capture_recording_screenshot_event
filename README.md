@@ -1,0 +1,1 @@
+# SwiftuI_capture_recording_screenshot_event
